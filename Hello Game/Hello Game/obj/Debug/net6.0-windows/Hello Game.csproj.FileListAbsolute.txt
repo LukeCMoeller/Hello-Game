@@ -1,0 +1,38 @@
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\Hello Game.exe
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\Hello Game.deps.json
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\Hello Game.runtimeconfig.json
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\Hello Game.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\Hello Game.pdb
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\obj\Debug\net6.0-windows\Hello Game.csproj.AssemblyReference.cache
+C:\Users\Luke\source\repos\Hello Game\Hello Game\obj\Debug\net6.0-windows\Hello Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke\source\repos\Hello Game\Hello Game\obj\Debug\net6.0-windows\Hello Game.AssemblyInfoInputs.cache
+C:\Users\Luke\source\repos\Hello Game\Hello Game\obj\Debug\net6.0-windows\Hello Game.AssemblyInfo.cs
+C:\Users\Luke\source\repos\Hello Game\Hello Game\obj\Debug\net6.0-windows\Hello Game.csproj.CoreCompileInputs.cache
+C:\Users\Luke\source\repos\Hello Game\Hello Game\obj\Debug\net6.0-windows\Hello Game.csproj.Up2Date
+C:\Users\Luke\source\repos\Hello Game\Hello Game\obj\Debug\net6.0-windows\Hello Game.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\obj\Debug\net6.0-windows\refint\Hello Game.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\obj\Debug\net6.0-windows\Hello Game.pdb
+C:\Users\Luke\source\repos\Hello Game\Hello Game\obj\Debug\net6.0-windows\Hello Game.genruntimeconfig.cache
+C:\Users\Luke\source\repos\Hello Game\Hello Game\obj\Debug\net6.0-windows\ref\Hello Game.dll
+C:\Users\Luke\source\repos\Hello Game\Hello Game\bin\Debug\net6.0-windows\Content\A.xnb
